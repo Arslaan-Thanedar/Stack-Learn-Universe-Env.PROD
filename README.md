@@ -29,18 +29,26 @@ Web Server aligned with CI/CD pipeline to eleminate manual errors and provide fa
 
 ## Screenshots :
 # Website -
-
+**Landing page : **
 ![App Screenshot](Images/WebImage.png)
 ![App Screenshot](Images/WebImage1.png)
-<p align="Center">
-![App Screenshot](Images/WebImage2.png)
+
 
 # Microsoft Azure Server -
 
-![App Screenshot](Images/S1.png)
+### Client Request Monitor : 
+![App Screenshot](Images/S6.png)
+
+### Server Health :
 ![App Screenshot](Images/S2.png)
+
+### Live Metrics Monitor :
 ![App Screenshot](Images/S3.png)
+
+### Server Analytics :
 ![App Screenshot](Images/S4.png)
+
+### Load Balacers Test :
 ![App Screenshot](Images/S5.png)
 
 
