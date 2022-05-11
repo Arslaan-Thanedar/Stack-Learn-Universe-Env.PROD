@@ -30,6 +30,7 @@ The Webserver aligned with CI/CD pipeline to eleminate manual errors and provide
 
 ![App Screenshot](Images/WebImage.png)
 ![App Screenshot](Images/WebImage1.png)
+<p align="Center">
 ![App Screenshot](Images/WebImage2.png)
 
 # Microsoft Azure Server -
