@@ -69,10 +69,11 @@ Web Server aligned with CI/CD pipeline to eleminate manual errors and provide fa
 
 ## 🧰 Languages and Tools:
 <p align="left" >
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://logos-world.net/wp-content/uploads/2021/05/Azure-New-Logo.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="html" height="40" style="vertical-align:top; margin:4px">
 <img src="https://thumbs.dreamstime.com/b/javascript-logo-javascript-logo-white-background-vector-format-available-136765881.jpg" alt="Java Script" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.freeiconspng.com/uploads/c-logo-icon-18.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt="dotnet" height="40" style="vertical-align:top; margin:4px">
 
 
