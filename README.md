@@ -68,7 +68,7 @@ Web Server aligned with CI/CD pipeline to eleminate manual errors and provide fa
 
 
 ## 🧰 Languages and Tools:
-<p align="left" >
+<p align="center" >
 <img src="https://pbs.twimg.com/media/E00JLeSVkAIY5Yf.png" alt="Azure" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="html" height="40" style="vertical-align:top; margin:4px">
