@@ -28,9 +28,18 @@ The Webserver aligned with CI/CD pipeline to eleminate manual errors and provide
 ## Screenshots :
 # Website -
 
-![App Screenshot](Images/S1.png)
+![App Screenshot](Images/WebImage.png)
+![App Screenshot](Images/WebImage1.png)
+![App Screenshot](Images/WebImage2.png)
 
 # Microsoft Azure Server -
+
+![App Screenshot](Images/S1.png)
+![App Screenshot](Images/S2.png)
+![App Screenshot](Images/S3.png)
+![App Screenshot](Images/S4.png)
+![App Screenshot](Images/S5.png)
+
 
 
 ## Tech Stack
