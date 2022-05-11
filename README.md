@@ -14,7 +14,7 @@ The Website is designed for Computer Science Aspirants to enhance leaning experi
 | ----------------- | ------------------------------------------------------------------ |
 |Deployment | Microsoft Azure : WebApps|
 |Administration | Microsoft Azure : App service , Application Insights |
-|Server|Central India|
+|Server Location|Central India|
 | Server Backend | ASP.Net 6.0 |
 | Backend | Javascript , C# |
 |Frontend|HTML, CSS|
