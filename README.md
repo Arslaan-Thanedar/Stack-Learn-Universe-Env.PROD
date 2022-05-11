@@ -1,7 +1,5 @@
 # Hi, I'm Arslaan! 👋
-
-
-
+#
 # Stack Learn Universe
 
 The Stack Learn Universe is an website that interconnects multiple educational sites and
@@ -37,7 +35,7 @@ Web Server aligned with CI/CD pipeline to eleminate manual errors and provide fa
 ![App Screenshot](Images/WebImage1.png)
 
 ## _____________________________________________________________________________________________________
-# Microsoft Azure Web Server -
+# Microsoft Azure Server -
 
  ### Client Request Monitor : 
 ![App Screenshot](Images/S6.png)
