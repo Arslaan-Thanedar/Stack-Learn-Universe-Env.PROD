@@ -34,7 +34,7 @@ Web Server aligned with CI/CD pipeline to eleminate manual errors and provide fa
 ![App Screenshot](Images/WebImage.png)
 ![App Screenshot](Images/WebImage1.png)
 
-## _____________________________________________________________________________
+## ______________________________________________________________________________
 # Microsoft Azure Server -
 
  ### Client Request Monitor : 
@@ -43,22 +43,22 @@ Web Server aligned with CI/CD pipeline to eleminate manual errors and provide fa
 
  ### Server Health :
 ![App Screenshot](Images/S2.png)
-## ______________________________________________________________________________
+## _______________________________________________________________________________
  ### Live Metrics Monitor :
 ![App Screenshot](Images/S3.png)
-## ______________________________________________________________________________
+## _______________________________________________________________________________
 
  ### Server Analytics :
 ![App Screenshot](Images/S4.png)
-## ______________________________________________________________________________
+## _______________________________________________________________________________
 
  ### Load Balacer Test :
 ![App Screenshot](Images/S5.png)
-## ______________________________________________________________________________
+## _______________________________________________________________________________
 
  ### Azure Administration Panel :
 ![App Screenshot](Images/S7.png)
-## ______________________________________________________________________________
+## _______________________________________________________________________________
 
 ## Tech Stack
 
@@ -72,7 +72,7 @@ Web Server aligned with CI/CD pipeline to eleminate manual errors and provide fa
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://thumbs.dreamstime.com/b/javascript-logo-javascript-logo-white-background-vector-format-available-136765881.jpg" alt="Java Script" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" alt="dotnet" height="40" style="vertical-align:top; margin:4px">
 
 
