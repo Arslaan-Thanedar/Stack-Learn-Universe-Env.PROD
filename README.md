@@ -1,8 +1,9 @@
 
 # Stack Learn Universe
 
-The Stack Learn Universe is a website that interconnects the multiple educational site and
-It will help to get the best possible blogs and docs of Computer Science contents. It is basically design for the newbie and which helps to kickstart and boost their career
+The Stack Learn Universe is an website that interconnects multiple educational sites and
+Provides a platform to access the most informative blogs and docs of Computer Science. It is basically designed for the begineers, to kickstart and boost their career
+in IT Industry.
 
 
 
