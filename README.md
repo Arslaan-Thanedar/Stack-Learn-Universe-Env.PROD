@@ -20,7 +20,9 @@ The Website is designed for Computer Science Aspirants to enhance leaning experi
 | Backend | Javascript , C# |
 |Frontend|HTML, CSS|
 
-The Webserver aligned with CI/CD pipeline to eleminate manual errors and provide faster delivery.
+
+The Website is Hosted and Administered on Cloud Platform named Microsoft Azure and 
+Web Server aligned with CI/CD pipeline to eleminate manual errors and provide faster delivery.
 
 
 
@@ -30,7 +32,7 @@ The Webserver aligned with CI/CD pipeline to eleminate manual errors and provide
 
 ![App Screenshot](Images/WebImage.png)
 ![App Screenshot](Images/WebImage1.png)
-<p align="Center">
+<p align="Center"/>
 ![App Screenshot](Images/WebImage2.png)
 
 # Microsoft Azure Server -
