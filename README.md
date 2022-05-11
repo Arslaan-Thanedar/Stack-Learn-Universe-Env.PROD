@@ -29,11 +29,11 @@ Web Server aligned with CI/CD pipeline to eleminate manual errors and provide fa
 
 ## Screenshots :
 # Website -
-**Landing page : **
+**Landing page:**
 ![App Screenshot](Images/WebImage.png)
 ![App Screenshot](Images/WebImage1.png)
 
-
+## ____________________________________________________________________________________________________
 # Microsoft Azure Server -
 
 ### Client Request Monitor : 
@@ -48,9 +48,12 @@ Web Server aligned with CI/CD pipeline to eleminate manual errors and provide fa
 ### Server Analytics :
 ![App Screenshot](Images/S4.png)
 
-### Load Balacers Test :
+### Load Balacer Test :
 ![App Screenshot](Images/S5.png)
 
+### Azure Web Application Dashboard :
+![App Screenshot](Images/S7.png)
+## _________________________________________________________________________________________________________
 
 
 ## Tech Stack
