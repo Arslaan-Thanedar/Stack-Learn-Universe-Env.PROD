@@ -28,8 +28,7 @@ The Webserver aligned with CI/CD pipeline to eleminate manual errors and provide
 ## Screenshots :
 # Website -
 
-![ABCD](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![App Screenshot]<img src="Stack-Learn-Universe-Env.PROD/Images/WebImage.png">
 
 # Microsoft Azure Server -
 
