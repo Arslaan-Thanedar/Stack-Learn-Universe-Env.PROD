@@ -83,7 +83,7 @@ Web Server aligned with CI/CD pipeline to eleminate manual errors and provide fa
 To run tests, run the following command
 
 ```bash
-    cd Stack Learn Universe Env.PROD
+    cd Stack-Learn-Universe-Env.PROD
 ```
 Setup dotnet application : 
 ```bash
