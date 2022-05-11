@@ -19,7 +19,7 @@ The Website is designed for Computer Science Aspirants to enhance leaning experi
 | Backend | Javascript , C# |
 |Frontend|HTML, CSS|
 
-The Webserver aligned with CI/CD pipeline to eleminate manual errors with faster delivery.
+The Webserver aligned with CI/CD pipeline to eleminate manual errors and provide faster delivery.
 
 
 
