@@ -34,7 +34,8 @@ Web Server aligned with CI/CD pipeline to eleminate manual errors and provide fa
 ![App Screenshot](Images/WebImage.png)
 ![App Screenshot](Images/WebImage1.png)
 
-## ______________________________________________________________________________
+| ----------------- | ------------------------------------------------------------------ |
+
 # Microsoft Azure Server -
 
  ### Client Request Monitor : 
