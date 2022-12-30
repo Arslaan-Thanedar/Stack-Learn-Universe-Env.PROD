@@ -53,10 +53,6 @@ Web Server aligned with CI/CD pipeline to eleminate manual errors and provide fa
 ![App Screenshot](Images/S4.png)
 #
 
- ### Load Balacer Test :
-![App Screenshot](Images/S5.png)
-#
-
  ### Azure Administration Panel :
 ![App Screenshot](Images/S7.png)
 #
